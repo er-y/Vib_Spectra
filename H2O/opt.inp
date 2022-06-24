@@ -1,0 +1,7 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# 
+! PBE OPT def2-TZVP
+
+* xyzfile 0 1 H2O.xyz
+
